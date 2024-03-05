@@ -67,7 +67,7 @@ function ReplicatePage () {
                                         <th className='w-[116px] h-[45px] gap-6 pl-6 pr-[0px,] py-[15px,] text-[13px] text-base font-normal leading-5 tracking-normal text-left text-[#12153E] font-family: Bai Jamjuree '  >High</th>
                                         <th className='w-[455px] h-[45px] gap-6 pl-6 pr-[0px,] py-[15px,] text-[13px]' >
                                             <div className='flex flex-row' >
-                                                <img src={WorkClusters} alt="work-clusters" />
+                                                <img src={WorkClusters} alt="work-cluster" />
                                                 <button type='button' onClick={openPopup} >
                                                     <img src={Arrow} alt="arrow" className='ml-7' />
                                                 </button>
